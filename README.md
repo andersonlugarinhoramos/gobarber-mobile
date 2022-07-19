@@ -14,21 +14,21 @@
 <br/>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diziano/gobarber-mobile?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/andersonlugarinhoramos/gobarber-mobile?style=flat-square">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Diziano/gobarber-mobile?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/andersonlugarinhoramos/gobarber-mobile?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Diziano/gobarber-mobile?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andersonlugarinhoramos/gobarber-mobile?style=flat-square">
 
-  <a href="https://github.com/Diziano/gobarber-mobile/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Diziano/gobarber-mobile?style=flat-square">
+  <a href="https://github.com/andersonlugarinhoramos/gobarber-mobile/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andersonlugarinhoramos/gobarber-mobile?style=flat-square">
   </a>
 
-  <a href="https://github.com/Diziano/gobarber-mobile/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Diziano/gobarber-mobile?style=flat-square">
+  <a href="https://github.com/andersonlugarinhoramos/gobarber-mobile/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/andersonlugarinhoramos/gobarber-mobile?style=flat-square">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/Diziano/gobarber-mobile?style=flat-square">
+  <img alt="GitHub" src="https://img.shields.io/github/license/andersonlugarinhoramos/gobarber-mobile?style=flat-square">
 </p>
 
 <br/>
@@ -39,8 +39,8 @@ Os clientes podem visualizar os horários disponíveis e agendar serviços com s
 O profissional, através do site pode visualizar todos os seus próximos agendamentos e horários livres.
 
 Este é um projeto de próposito didático que foi desenvolvido durante o Bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/). Este repositório contempla o aplicativo Mobile da aplicação. Confira a aplicação Web e a API nos links abaixo:
-- [GoBarber Web](https://github.com/Diziano/gobarber-web/)
-- [GoBarber API](https://github.com/Diziano/gobarber-api/)
+- [GoBarber Web](https://github.com/andersonlugarinhoramos/gobarber-web/)
+- [GoBarber API](https://github.com/andersonlugarinhoramos/gobarber-api/)
 
 
 <br/>
@@ -61,7 +61,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :art: Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/BXCihtXXh9p37lGsENV614/GoBarber?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 <br />
 
@@ -81,7 +81,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/Diziano/gobarber-mobile.git
+    $ git clone https://github.com/andersonlugarinhoramos/gobarber-mobile.git
 
     # Navegar para o diretório
     $ cd gobarber-mobile
@@ -109,4 +109,3 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
